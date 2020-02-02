@@ -1,0 +1,267 @@
+<?php
+$locale['nl_100'] = "Newsletter Admin";
+$locale['nl_101'] = "Newsletter management system";
+$locale['nl_102'] = "Subscriptions";
+$locale['nl_103'] = "Newsletter";
+$locale['nl_104'] = "Newsletter Archive";
+$locale['nl_105'] = "Archived Newsletters";
+$locale['nl_106'] = "Newsletter Title";
+$locale['nl_107'] = "Delete";
+$locale['nl_108'] = "Publication Date";
+$locale['nl_109'] = "View Newsletter";
+$locale['nl_110'] = "Newsletter Archive Admin";
+$locale['nl_111'] = "No Newsletters Have Been Sent";
+$locale['nl_112'] = "Published On";
+$locale['nl_113'] = "Header Text: ";
+$locale['nl_114'] = "2014 PHP-Fusion7 Newsletters v5.01";
+
+$locale['nl_200'] = "Menu Navigation";
+$locale['nl_201'] = "Newsletter Administration";
+$locale['nl_202'] = "Edit Subscriptions";
+$locale['nl_203'] = "Validation Codes";
+$locale['nl_204'] = "Subscription Activation";
+$locale['nl_205'] = "Subscription Activation Successful";
+$locale['nl_206'] = "Subscription Management";
+$locale['nl_207'] = "Deactivate Subscription";
+$locale['nl_208'] = "Newsletter Subscription successfully deactivated.";
+$locale['nl_209'] = "Newsletter Subscription: Cancel";
+$locale['nl_210'] = "Newsletter Subscription successfully cancelled.";
+$locale['nl_211'] = "Add Newsletter Subscription";
+$locale['nl_212'] = "Newsletter Subscription successfully added.";
+$locale['nl_213'] = "No Member with this ID:";
+$locale['nl_214'] = "The id must be a number.";
+$locale['nl_215'] = "Email Address successfully added to mailing list.";
+$locale['nl_216'] = "Invalid/Unknown Error";
+$locale['nl_217'] = "Site Member: ";
+$locale['nl_218'] = "Public Name: ";
+$locale['nl_219'] = "Public Email Address:";
+$locale['nl_220'] = "Add Email Address";
+$locale['nl_221'] = "Newsletter Subscriptions";
+$locale['nl_222'] = "Subscribed Members";
+$locale['nl_223'] = "Add Email Address";
+$locale['nl_224'] = "Email Address";
+$locale['nl_225'] = "Username";
+$locale['nl_226'] = "First Last Name ";
+$locale['nl_227'] = "Registered";
+$locale['nl_228'] = "Options";
+$locale['nl_229'] = "Removed user";
+$locale['nl_230'] = "[Public - ";
+$locale['nl_231'] = "Activate";
+$locale['nl_232'] = "Deactivate";
+$locale['nl_233'] = "There are no subscribed Members.";
+$locale['nl_234'] = "Summary";
+$locale['nl_235'] = "Total Subscribers";
+$locale['nl_236'] = "Members";
+$locale['nl_237'] = "Guests";
+$locale['nl_238'] = "Deactivated";
+$locale['nl_239'] = "Cancel Subscriber";
+$locale['nl_240'] = "There are no subscribed members";
+$locale['nl_241'] = "Newsletter Validation Codes";
+$locale['nl_242'] = "Validation Code";
+$locale['nl_243'] = "No Validation Codes.";
+$locale['nl_244'] = "Submit";
+$locale['nl_245'] = "Status: ";
+$locale['nl_246'] = "Site Email&nbsp;&nbsp;";
+$locale['nl_247'] = "Email Address";
+$locale['nl_248'] = "Subscription Deleted";
+$locale['nl_249'] = "ID";
+$locale['nl_250'] = "Public Subscription Modes of Operation";
+$locale['nl_251'] = "Archive Title: ";
+$locale['nl_252'] = "Email Addy";
+$locale['nl_253'] = "Subscribed";
+$locale['nl_254'] = "Unsubscribed";
+
+// Html buttons
+$locale['html400'] = "- Select Font Color -";
+$locale['html401'] = "- Select Image -";
+$locale['html402'] = "Maroon";
+$locale['html403'] = "Red";
+$locale['html404'] = "Orange";
+$locale['html405'] = "Brown";
+$locale['html406'] = "Yellow";
+$locale['html407'] = "Green";
+$locale['html408'] = "Lime";
+$locale['html409'] = "Olive";
+$locale['html410'] = "Cyan";
+$locale['html411'] = "Blue";
+$locale['html412'] = "Navy";
+$locale['html413'] = "Purple";
+$locale['html414'] = "Violet";
+$locale['html415'] = "Black";
+$locale['html416'] = "Gray";
+$locale['html417'] = "Silver";
+$locale['html418'] = "White";
+$locale['html419'] = "Crimson";
+$locale['html420'] = "FireBrick";
+$locale['html421'] = "Magenta";
+
+$locale['nl_400'] = "Current Newsletters and Templates";
+$locale['nl_401'] = "Load";
+$locale['nl_402'] = "Delete";
+$locale['nl_403'] = "Subscription Management";
+$locale['nl_404'] = "Select A Newsletter or Template ";
+$locale['nl_405'] = " - Newsletter Preview";
+$locale['nl_406'] = "Yes";
+$locale['nl_407'] = "No";
+
+$locale['nl_410'] = "Add Newsletter";
+$locale['nl_411'] = "Edit Newsletter";
+$locale['nl_412'] = "Send Newsletter";
+$locale['nl_413'] = "Delete Newsletter";
+$locale['nl_414'] = "Newsletter or Template Updated";
+$locale['nl_415'] = "Newsletter Added";
+$locale['nl_416'] = "The Newsletter has been sent successfully.";
+$locale['nl_417'] = "The Newsletter could not be sent.";
+$locale['nl_418'] = "Please ensure sendmail is configured correctly.";
+$locale['nl_419'] = "There are no members subscribed.";
+$locale['nl_420'] = "Newsletter Deleted";
+$locale['nl_421'] = "Go to Newsletter Admin";
+$locale['nl_424'] = "Message Sent To All Subscribers";
+$locale['nl_425'] = "Sent To The Following Email Addresses";
+$locale['nl_426'] = "Newsletter or Notice Has Been Sent To The Selected User Group(s)";
+
+$locale['nl_429'] = "<b>Subject:</b>";
+$locale['nl_430'] = "Email To:";
+$locale['nl_431'] = "<b>Message:</b>";
+$locale['nl_432'] = "<b>Codes:</b>";
+
+$locale['nl_436'] = "Preview Newsletter";
+$locale['nl_437'] = "Save Newsletter";
+$locale['nl_438'] = "Send Newsletter";
+
+$locale['nl_442'] = "Send To Single/Multiple Site Users";
+$locale['nl_443'] = "Send To An Entire Site User Group";
+$locale['nl_444'] = "Send To Single/Multiple Guest Users";
+
+$locale['nl_448'] = "Smiley Codes:";
+$locale['nl_449'] = "Reset All";
+$locale['nl_450'] = "Please specify a Subject";
+$locale['nl_451'] = "Delete this Newsletter?";
+
+$locale['nl_463'] = "All switch conditions have failed. You should never ever get here.";
+$locale['nl_464'] = "<b>Mail to Users:</b>";
+$locale['nl_465'] = "<b>Mail to Group(s):</b>";
+$locale['nl_466'] = "<b>Mail to Public:</b>";
+
+$locale['nl_470'] = "Subscriptions";
+$locale['nl_471'] = "Subscribe to our Newsletters<br />";
+$locale['nl_472'] = "Subscribe";
+$locale['nl_473'] = "Subscribed: ";
+$locale['nl_474'] = "Click Unsubscribe to<br />leave the mailing list.";
+$locale['nl_475'] = "Unsubscribe";
+$locale['nl_476'] = "Unsubscribed:";
+$locale['nl_477'] = "Email";
+$locale['nl_478'] = "Please enter a valid Email Address";
+$locale['nl_479'] = "Invalid Email Address";
+$locale['nl_480'] = "This Email Address is black-listed.";
+$locale['nl_481'] = "This Email Address is already subscribed.";
+$locale['nl_482'] = $settings['sitename']." - Newsletter Activation";
+$locale['nl_483'] = "Hello,\n
+Welcome to the ".$settings['sitename']." Newsletter subscription service.\n
+Please activate your subscription by clicking on the following link:\n";
+$locale['nl_484'] = "An email with a link to confirm your Subscription status was just sent.";
+$locale['nl_485'] = "An email with a link to confirm your Subscription status could not be sent.";
+$locale['nl_486'] = "The following error occurred:";
+$locale['nl_487'] = "No Subscription exists for this Email Address.";
+$locale['nl_488'] = $settings['sitename']." - Newsletter Deactivation";
+$locale['nl_489'] = "Hello,\n
+If you want to unsubscribe from the ".$settings['sitename']."\nNewsletter Subscription Service, please, click the following link:";
+$locale['nl_490'] = $settings['sitename']." Newsletter subscription deactivation email has been sent.";
+$locale['nl_491'] = "Subscribe to our Newsletter<br />";
+$locale['nl_492'] = "First Last Name";
+$locale['nl_493'] = "Please enter your First & Last Name";
+$locale['nl_494'] = "Full name is required!";
+$locale['nl_495'] = "Site Members Only";
+
+$locale['nl_500'] = "You have successfuly confirmed your Subscription.";
+$locale['nl_501'] = "Validation Code invalid.";
+$locale['nl_502'] = "You have already confirmed your Subcription.";
+$locale['nl_503'] = "No Subscription exists for this Email Address.";
+$locale['nl_504'] = "Back to Main Page";
+$locale['nl_505'] = "Your Subscription was successfully cancelled.";
+
+$locale['nl_600'] = "Newsletter Admin Main Menu";
+$locale['nl_601'] = "Go Back To Main Menu";
+$locale['nl_602'] = "Newsletters v5.01 for PHP-Fusion v7";
+$locale['nl_603'] = "Main Menu";
+$locale['nl_604'] = "Newsletters";
+$locale['nl_605'] = "Newsletters";
+$locale['nl_606'] = "Subscriptions";
+$locale['nl_607'] = "Validations";
+$locale['nl_608'] = "File Uploads";
+$locale['nl_609'] = "Archive Admin";
+$locale['nl_610'] = "Attachments";
+
+$locale['nl_650'] = "<b>Header:</b>";
+$locale['nl_651'] = "<b>Archive:</b>";
+$locale['nl_652'] = "Save This Newsletter or Notice For Web Viewing?";
+
+$locale['nl_700'] = "Website Privacy Notice";
+$locale['nl_701'] = "".$settings['sitename']." Privacy Policy";
+
+$locale['nl_801'] = "Upload Files";
+$locale['nl_802'] = "Return to File Uploads";
+$locale['nl_803'] = "Return to Admin Index";
+$locale['nl_804'] = "The file was successfully removed from upload directory.";
+$locale['nl_805'] = "The file could not be removed from upload directory.";
+$locale['nl_806'] = "Delete File";
+$locale['nl_807'] = "File Deleted";
+$locale['nl_808'] = "File Not Deleted";
+$locale['nl_810'] = "Filename is Invalid";
+$locale['nl_811'] = "File is Too Large";
+$locale['nl_812'] = "Invalid File Extension";
+$locale['nl_820'] = "Upload File";
+$locale['nl_821'] = "Filename: ";
+$locale['nl_822'] = "Maximum File Size: ";
+$locale['nl_823'] = "File Uploaded";
+$locale['nl_824'] = "That file format is not allowed.";
+$locale['nl_825'] = "The file could not be uploaded.";
+$locale['nl_826'] = "Upload Files of Almost Any Filetype For Newsletter Attachment";
+$locale['nl_827'] = "File upload information was saved.";
+$locale['nl_828'] = "File upload information was NOT saved.";
+$locale['nl_829'] = "Recommendation: Uploaded files should be compressed/zipped";
+
+$locale['nl_835'] = "Folder: ";
+$locale['nl_840'] = "File Uploads";
+$locale['nl_841'] = "Filename [click to test]";
+$locale['nl_842'] = "File Size";
+$locale['nl_843'] = "Options";
+$locale['nl_844'] = "Delete";
+$locale['nl_850'] = "Do you really want to remove this file?";
+$locale['nl_851'] = "No such file to remove";
+
+$locale['nl_860'] = "<b>Attach Files:</b>";
+$locale['nl_861'] = "Off";
+$locale['nl_862'] = "On";
+$locale['nl_863'] = "Manual";
+$locale['nl_864'] = "Public Subscriptions Are Not Allowed";
+$locale['nl_865'] = "Public Subscriptions Are On, Allowed";
+$locale['nl_866'] = "Administrator May Add Non-Members";
+$locale['nl_867'] = "Manual Add";
+$locale['nl_868'] = "Public Subscriptions Are Now Set To Off";
+$locale['nl_869'] = "Public Subscriptions Are Now Set To On";
+$locale['nl_870'] = "Public Subscriptions Are Now Set To Manual";
+
+$locale['nl_900'] = "Copyright &copy; ".date("Y")."";
+$locale['nl_901'] = " - All Rights Reserved";
+$locale['nl_902'] = "You received this message because you are subscribed to our newsletter mailing list via our Website.";
+$locale['nl_903'] = "Click to Unsubscribe";
+$locale['nl_904'] = "Our Privacy Policy";
+$locale['nl_910'] = "PHP-Fusion7 Newsletter System";
+$locale['nl_911'] = "Newsletter";
+$locale['nl_913'] = "To receive ".$settings['sitename']." newsletters, please add ".$settings['siteemail']." to your address book.";
+$locale['nl_920'] = "Please send an email to the ";
+$locale['nl_921'] = " for any website related issues.";
+$locale['nl_922'] = "Newsletter - ";
+$locale['nl_923'] = "webmaster";
+$locale['nl_924'] = "Website URL - ";
+$locale['nl_928'] = "The <b>Subject</b> becomes the <b>title</b> of the <b>sent newsletter</b>. If you save the newsletter <b>w/o</b> changing the Subject it simply updates the loaded layout with the changes you have made.";
+$locale['nl_929'] = "NEW FEATURE: This is the newsletter heading text. Examples: Newsletter October 2013, A Notice From Your Webmaster, November Newsletter, To All Site Members etc etc etc";
+$locale['nl_930'] = "NEW FEATURE: Select Yes to save an archived copy of this newsletter or notice for browser viewing. Remember; if it contains sensitive information such as passwords or codes DO NOT archive it !";
+$locale['nl_931'] = "Select a username to send a newsletter to a single site user. To send to multiple site users <b>Hold Down the Ctrl Key</b>, and select every user that you wish to send to. To send to all click 1st one, scroll to bottom hold down shift key and click last one.";
+$locale['nl_932'] = "Select a single or multiple site User Group(s) to send a notice or newsletter to. Code to allow for multiple groups came in a dream!";
+$locale['nl_933'] = "Select a username to send a newsletter to a single public user. To send to multiple public users <b>Hold Down the Ctrl Key</b>, and select every user that you wish to send to. To send to all click 1st one, scroll to bottom hold down shift key and click last one.";
+$locale['nl_934'] = "By selecting Yes, you may add an attachment to your newsletter. To send multiple attachments hold down the Ctrl Key and make your selections.";
+$locale['nl_935'] = "View in your browser";
+
+?>

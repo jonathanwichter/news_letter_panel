@@ -1,0 +1,36 @@
+<?php
+$content = "<html>\n";
+$content .= "<head>\n";
+$content .= "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n";
+$content .= "<meta name='viewport' content='width=device-width, initial-scale=1.0' />\n";
+$content .= "<title>$subject</title>\n";
+$content .= "</head>\n";
+$content .= "<body bgcolor='#efefef'>\n";
+$content .= "<table align='center' width='100%' height='auto' border='0' cellpadding='0' cellspacing='0' bgcolor='#efefef'><tr><td width='100%' align='center'>\n";
+$content .= "<table align='center' border='0' cellspacing='0' cellpadding='0'><tr>\n";
+$content .= "<td align='center' valign='top' style='font-family:Verdana, Geneva, sans-serif;font-size:10px;line-height:18px;color:#000000;'><span style='color:#000000; font-size: 10px;'>".$locale['nl_913']."</span><br><br></td></tr>\n";
+$content .= "<tr><td align='center' valign='top' style='font-family:Verdana, Geneva, sans-serif;font-size:13px;line-height:18px;'>\n";
+$content .= "<a style='color: #000099;' $archive_bit</a>\n";
+$content .= "<br><br></td></tr></table>\n";
+$content .= "<table align='center' width='600' cellpadding='1' cellspacing='0' border='0' bgcolor='#004000'><tr>\n";
+$content .= "<td align='center'><table width='600' cellpadding='0' cellspacing='0' bgcolor='#ffffff'><tr>\n";
+$content .= "<td align='center'><table width='600' cellpadding='10' cellspacing='0' bgcolor='#ddddee'><tr>\n";
+$content .= "<td align='center' style='font-family:Verdana, Geneva, sans-serif;font-size:22px;line-height:18px;color:#000084;'>\n";
+$content .= "<span style='font-size:22px; color:#000084'><b>".$settings['sitename']."</b></span><br><br><span style='font-size:18px; color:#840000'><b>$news_head</b></span></td></tr><tr>\n";
+$content .= "<td align='right' style='font-family:Verdana, Geneva, sans-serif;font-size:9px;line-height:18px;color:#000000;'><span style='color:#000000; font-size: 9px;'><b>".$locale['nl_112']." $send_date</b></span><hr></td></tr><tr>\n";
+$content .= "<td style='font-family:Verdana, Geneva, sans-serif;font-size:13px;line-height:18px;color:#000000;'><span style='color:#000000; font-size: 13px;'>$usrtxt</span><br><br><hr></td></tr><tr>\n";
+$content .= "<td align='center' style='font-family:Verdana, Geneva, sans-serif;font-size:11px;line-height:18px;color:#ffff00;'>\n";
+$content .= "<span style='color:#000000; font-size: 11px;'>".$locale['nl_920']."<a style='color: #0000dd;' href='mailto:".$settings['siteemail']."'>\n";
+$content .= "<span style='color:#0000dd; font-size: 11px;'>".$locale['nl_923']."</span></a>".$locale['nl_921']."</span><br><br>\n";
+$content .= "<span style='color:#000000; font-size: 11px;'>".$locale['nl_900']." ".$settings['sitename']."<br>".$locale['nl_924']."</span>\n";
+$content .= "<a style='color: #0000dd;' href='".$settings['siteurl']."'><span style='color:#0000dd; font-size: 11px;'>".$settings['siteurl']."</span></a><span style='color:#000000; font-size: 11px;'>".$locale['nl_901']."</span></td></tr></table>\n";
+$content .= "</td></tr></table></td></tr></table>\n";
+$content .= "<table align='center' border='0' cellspacing='0' cellpadding='0'><tr>\n";
+$content .= "<td align='center' style='font-family:Verdana, Geneva, sans-serif;font-size:11px;line-height:18px;color:#000000;'><br><br><span style='color:#000000; font-size: 11px;'>".$locale['nl_902']."</span><br><br>\n";
+$content .= "<a style='color: #000099;' href='".$settings['siteurl']."infusions/news_letter_panel/unsubscribe.php'><span style='color:#000099; font-size: 11px;'>".$locale['nl_903']."</span></a><br><br>\n";
+$content .= " <a style='color: #000099;' href='".$settings['siteurl']."privacy_policy.php'><span style='color:#000099; font-size: 11px;'>".$locale['nl_904']."</span></a>\n";
+$content .= "<br><br></td></tr></table>\n";
+$content .= "</td></tr></table>\n";
+$content .= "</body>\n";
+$content .= "</html>\n";
+?>

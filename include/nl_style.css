@@ -1,0 +1,23 @@
+/* newsletters ver5.01 stylesheet */
+
+.butt1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+	color: #000; background-color: #fff;
+	height:19px;
+	padding:0px 2px 0px 2px;
+	border: 1px solid #000;
+	margin-top:2px;
+}
+
+.butt2 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000; background-color: #fff;
+	height:19px;
+	padding:0px 2px 0px 2px;
+	border: 1px solid #000;
+	margin-top:2px;
+}
